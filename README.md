@@ -1,6 +1,6 @@
 -  Hi, I’m @konfucianeca
 -  I’m interested in programming with .Net
--  I’m currently learning programming fundamentals.
+-  I’m currently learning ASP.NET Fundamentals
 
 
 <!---
